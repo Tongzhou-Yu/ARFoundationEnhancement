@@ -1,2 +1,1 @@
-# ar-CivicHotel
-An ongoing AR project for my Transreality course based on ARFoundation 
+# Important Functions that ARFoundation-Samples haven't
